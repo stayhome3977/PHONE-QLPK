@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Compose draws every surface; the window theme only needs a matching background. -->
+    <style name="Theme.QuanLyPhongKham" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/brand_surface</item>
+    </style>
+
+    <style name="Theme.QuanLyPhongKham.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/brand_primary</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="postSplashScreenTheme">@style/Theme.QuanLyPhongKham</item>
+    </style>
+</resources>

@@ -1,0 +1,26 @@
+<!-- Clinic mark: a rounded medical cross holding a leaf-shaped drop (healthy skin), inside a soft ring. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M54,23a31,31 0 1,1 0,62a31,31 0 1,1 0,-62"
+        android:strokeWidth="2.4"
+        android:strokeAlpha="0.55"
+        android:strokeColor="#FFFFFF" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,44H73A5,5 0 0,1 78,49V59A5,5 0 0,1 73,64H35A5,5 0 0,1 30,59V49A5,5 0 0,1 35,44Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M49,30H59A5,5 0 0,1 64,35V73A5,5 0 0,1 59,78H49A5,5 0 0,1 44,73V35A5,5 0 0,1 49,30Z" />
+    <path
+        android:fillColor="#14B8A6"
+        android:pathData="M54,44.5C60.5,48.5 62.5,56 54,64C45.5,56 47.5,48.5 54,44.5Z" />
+    <path
+        android:pathData="M54,49.5V59.5M54,55.5L57,52.8M54,57.8L51,55.2"
+        android:strokeWidth="1.3"
+        android:strokeLineCap="round"
+        android:strokeColor="#FFFFFF" />
+</vector>
